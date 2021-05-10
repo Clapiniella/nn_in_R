@@ -4,4 +4,4 @@ En este meetup descubriremos en primer lugar, qué es una red neuronal, pero tam
 
 [Enlace al meetup](https://www.meetup.com/rladies-madrid/events/277956774/)
 
-[imagen](./img/meetup11521.png)
+![imagen](./img/meetup11521.png)
