@@ -1,4 +1,5 @@
 Practical Neural Networks and Deep Learning in R - Minerva Singh - Packt - December 2019
+
 Neural Networks with R - Giuseppe Ciaburro & Balaji Venkateswaran - Packt - September 2017
 Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow - Aurélien Géron - O'Reilly - September 2019
 
@@ -7,3 +8,4 @@ https://www.datacamp.com/community/tutorials/neural-network-models-r
 https://towardsdatascience.com/mcculloch-pitts-model-5fdf65ac5dd1
 https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/
 https://www.r-bloggers.com/2015/09/fitting-a-neural-network-in-r-neuralnet-package/
+https://datascienceplus.com/neuralnet-train-and-test-neural-networks-using-r/
